@@ -40,6 +40,16 @@
                 lat: 55.188207,
                 lng: 14.704509
             };
+            var myLatLng3 = {
+                lat: 55.662036,
+                lng: 12.569130
+            };
+
+            var myLatLng4 = {
+                lat: 55.840561,
+                lng: 11.354821
+            };
+
 
             var map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 5,
@@ -59,6 +69,18 @@
                 position: myLatLng2,
                 map: map,
                 title: 'Hasle Havn!'
+
+            });
+            var marker3 = new google.maps.Marker({
+                position: myLatLng3,
+                map: map,
+                title: 'Islandsbrygge!'
+
+            });
+            var marker4 = new google.maps.Marker({
+                position: myLatLng4,
+                map: map,
+                title: 'Ordrup næs!'
 
             });
         }
