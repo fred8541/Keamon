@@ -1,0 +1,62 @@
+[
+    {
+        "id": "indgang",
+        "position": {
+            "lat": 55.706563,
+            "lng": 12.539165
+        },
+        "icon": "icon.png",
+        "navn": "indgang",
+        "beskrivelse": "Her er KEA",
+        "billede": "marker.png"
+
+    },
+    {
+        "id": "moonbar",
+        "position": {
+            "lat": 55.706285,
+            "lng": 12.539563
+        },
+        "icon": "icon.png",
+        "navn": "moonbar",
+        "beskrivelse": "Her er KEA",
+        "billede": "moon.jpg"
+
+    },
+    {
+        "id": "gaarden",
+        "position": {
+            "lat": 55.706241,
+            "lng": 12.539725
+        },
+        "icon": "icon.png",
+        "navn": "gaarden",
+        "beskrivelse": "Her er KEA",
+        "billede": "gaarden.JPG"
+
+    },
+    {
+        "id": "kantine",
+        "position": {
+            "lat": 55.706429,
+            "lng": 12.539387
+        },
+        "icon": "icon.png",
+        "navn": "kantine",
+        "beskrivelse": "Her er KEA",
+        "billede": "kantine.jpg"
+
+    },
+    {
+        "id": "parkering",
+        "position": {
+            "lat": 55.706340,
+            "lng": 12.538700
+        },
+        "icon": "icon.png",
+        "navn": "parkering",
+        "beskrivelse": "Her er KEA",
+        "billede": "parkering.JPG"
+
+    }
+]
